@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://jallunvalajat.github.io"
 twitter_username: Jallunvalajat
 facebook_username:  Jallunvalajat
+instagram_username:  Jallunvalajat
 
 # Build settings
 markdown: kramdown
