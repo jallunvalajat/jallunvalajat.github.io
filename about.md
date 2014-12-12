@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Yhdistyksestä
+header-img: "img/jallusota.jpg"
+permalink: /yhdistyksesta/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Jallunvalajat ry on yhden tähden asiaton järjestö, jonka tehtävä on ajaa jäsentensä etua sekä varjella perinteistä suomalaista kulttuuria niin valtionmonopoleissa, ravitsemusliikkeissä kuin etelän kaukomaillakin.
