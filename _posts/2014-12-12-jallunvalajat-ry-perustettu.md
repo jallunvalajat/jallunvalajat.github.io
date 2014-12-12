@@ -4,7 +4,7 @@ title:      "Jallunvalajat ry perustettu"
 subtitle:   Perustamiskokous saatiin päätökseen jallunhuuruisissa tunnelmissa.
 date:       2014-12-12 12:00:57
 header-img: "img/jallu75.jpg"
-categories: uutiset
+categories: p
 ---
 
 Jallunvalajat ry näki päivänvalon joulukuun yhdentenätoista Jallun vuonna 2014. Yhdistyksen sääntö- sekä perustamiskokoukset pidettiin alkuillasta ja ensimmäinen hallitus saatiin valituksi hieman myöhemmin. Hallitus koostuu kokeneista jallunjuojista.
