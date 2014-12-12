@@ -16,7 +16,7 @@ exclude: ["node_modules"]
 
 # Prose.io
 prose:
-    ignore: ["/css", "/fonts", "/_includes", "/js", "/less", "/_sass", "_config.yml", "feed.xml", "/layouts", "LICENCE", "README.md", "/site"]
+    rooturl: "_posts"
     siteurl: "http://jallunvalajat.github.io"
     media: "img"
     metadata:
