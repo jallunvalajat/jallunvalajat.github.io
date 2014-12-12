@@ -4,7 +4,7 @@ title:      Jalluaatto
 subtitle:   Jallunvalajien ensimmäinen tapahtuma järjestetään joulukuun 21. päivä Kuppalassa.
 date:       2014-12-12 15:48:00
 header-img: "img/jalluleipa.jpg"
-categories: p
+categories: tapahtumat
 ---
 Jalluyö, juhlayö! <br>
 Päättynyt kaik’ on työ. <br> 
@@ -19,7 +19,7 @@ Saapuuko paikalle Jallupukki? Kurkistaako ikkunasta Jallutonttu? Raikaako Kuppal
 
 Ainakin se on selvää, että jallupäivänä olo on melko jalluinen alustavan menun ollessa seuraavanlainen:
 
-- Jallutai: Tähtien sota -Jallua (Jallu\* + Jallu\*\*)
+- Jallutail: Tähtien sota -Jallua (Jallu\* + Jallu\*\*)
 - Alkuruoka: Jallu\*
 - Pääruoka: Jallu\*\*
 - Jälkiruoka: Jallu\*\*\*
