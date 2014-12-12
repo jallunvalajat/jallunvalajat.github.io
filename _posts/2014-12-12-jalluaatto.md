@@ -2,7 +2,7 @@
 layout:     post
 title:      Jalluaatto
 subtitle:   Jallunvalajien ensimmäinen tapahtuma järjestetään joulukuun 21. päivä Kuppalassa.
-date:       2014-12-12
+date:       2014-12-12 15:48:00
 header-img: "img/jalluleipa.jpg"
 categories: tapahtumat
 ---
