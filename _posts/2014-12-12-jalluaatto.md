@@ -24,6 +24,8 @@ Ainakin se on selvää, että jallupäivänä olo on melko jalluinen alustavan m
 - Pääruoka: Jallu\*\*
 - Jälkiruoka: Jallu\*\*\*
 
+Toki tarjolla on myös Jallun kanssa sopivaa ruokaa.
+
 Mitä maksaa? Jallullinen 10e, jalluton 50e (maksu käteisellä ovella) <br>
 Pukukoodi? Jalluinen asu <br>
 Millon? Jalluntaina 21.12, jallutail-osuus klo 18, jallupöytään siirtyminen 18.30 <br>
