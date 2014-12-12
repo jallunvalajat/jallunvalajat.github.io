@@ -13,3 +13,33 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
+
+# Prose.io
+prose:
+    ignore: ["/css", "/fonts", "/_includes", "/js", "/less", "/_sass", "_config.yml", "feed.xml", "/layouts", "LICENCE", "README.md", "/site"]
+    siteurl: "http://jallunvalajat.github.io"
+    media: "img"
+    metadata:
+        _posts:
+            - name: "layout"
+            field:
+                element: "hidden"
+                value: "post"
+            - name: "title"
+            field:
+                element: "text"
+                label: "otsikko"
+            - name: "subtitle"
+            field:
+                element: "text"
+                label: "alaotsikko"
+            - name: "categories"
+            field:
+                element: "select"
+                label: "kategoria"
+                options:
+                    - name: "Uutinen"
+                    value: "uutiset"
+                    - name: "Tapahtuma"
+                    value: "tapahtuma"
+
