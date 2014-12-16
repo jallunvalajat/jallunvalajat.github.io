@@ -10,7 +10,7 @@ permalink: /laulukirja/
 
 Tänne kerätään Jallunvalajien arvolle sopivia lauluja. Laulukirjasta tullee saataville myös printtiversio.
 
-*Huom!* Laulujen sanat saattavat vielä elää. Lauluja lisätään sitä mukaa kuin lyriikkatoimikuntamme niitä rapustelee tai valmiita lauluja meille toimitetaan.
+*Huom!* Laulujen sanat saattavat vielä elää. Lauluja lisätään sitä mukaa kuin lyriikkatoimikuntamme niitä rapustelee tai valmiita lauluja meille [toimitetaan](../yhdistyksesta/).
 
 
 
