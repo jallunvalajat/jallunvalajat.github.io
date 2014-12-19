@@ -117,3 +117,27 @@ melodia: [Oh Susanna](https://www.youtube.com/watch?v=WYRmsbEQXEg)</small>
 <small>sanat: Piia Kuosmanen  
 melodia: [Romanssi](https://www.youtube.com/watch?v=fBJrqdOTqVw)</small>
 
+
+####<center>Tähtilaulu</center>
+
+    Meidän pullossa, meidän pullossa
+    siinä on yksi tähti kyljessä.
+    Ja se ryypätään, ja se ryypätään
+    siis kaikki kännäämään!
+    Ykköstähti!
+
+    Meidän pullossa, meidän pullossa
+    siinä on kaksi tähtee kyljessä
+    Ja se ryypätään, ja se ryypätään
+    siis kaikki kännäämään!
+    Kakkostähti!
+
+    Meidän pullossa, meidän pullossa
+    siinä on kolme tähtee kyljessä
+    Ja se ryypätään, ja se ryypätään
+    siis kaikki kännäämään!
+    Kolmostähti!
+
+<small>sanat: Jallunvalajat
+melodia: [Pumppulaulu](https://www.youtube.com/watch?v=0FqekUC5_fY)</small>
+
